@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albert Alcance</h1>
+<h1 align="center">I'm Albert Alcance</h1>
 <h3 align="center">A passionate programmer and web developer</h3>
 
 ![Image](https://github.com/user-attachments/assets/d357493c-4a21-4083-bc62-1b5665effc06)
