@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Albert Alcance 👋</h1>
 <h3 align="center">Passionate Programmer & Web Developer</h3>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d357493c-4a21-4083-bc62-1b5665effc06" alt="Albert Alcance Banner" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/john-albert-alcance-4453b5308/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="John Albert Alcance" height="30" width="40" />
+  </a>
 </p>
 
 ---
