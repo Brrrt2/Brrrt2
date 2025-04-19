@@ -26,10 +26,11 @@ Explore my projects and contributions on
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/john-albert-alcance/" target="_blank">
+  <a href="https://www.linkedin.com/in/john-albert-alcance-4453b5308/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="John Albert Alcance" height="30" width="40" />
   </a>
 </p>
+
 
 
 ---
