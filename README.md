@@ -58,5 +58,5 @@ Explore my projects and contributions on
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brrt2&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brrrt2&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
