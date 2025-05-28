@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Neural Networks, Data Analytics, and Full-stack Web Development**
 - 🛠️ I build projects focused on real-world applications, from web platforms to AI integrations.
 - 📫 Reach me at: **balongjobert@gmail.com**
-- ⚡ Fun fact: **I can't code well and cooked 💀💀**
+- ⚡ Fun fact: **I'm cooked 💀💀**
 
 ---
 
