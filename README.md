@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Albert Alcance</h1>
 <h3 align="center">A passionate programmer and web and software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brrrt2&label=Profile%20views&color=0e75b6&style=flat" alt="brrrt2" /> </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d357493c-4a21-4083-bc62-1b5665effc06" alt="Albert Alcance Banner" />
 </p>
