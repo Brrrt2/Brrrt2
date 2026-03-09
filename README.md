@@ -65,7 +65,7 @@
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brrrt2&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="brrrt2 stats" height="165" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brrrt2&theme=transparent&hide_border=true" alt="brrrt2 streak" height="165" />
 </div>
 
