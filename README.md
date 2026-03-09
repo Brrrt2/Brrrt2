@@ -4,17 +4,15 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d357493c-4a21-4083-bc62-1b5665effc06" alt="Albert Alcance Banner" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brrrt2&label=Profile%20views&color=0e75b6&style=flat" alt="brrrt2" /> </p>
+- I’m currently learning **Full-stack Developer, Software Developer, System Automations**
 
-- 🌱 I’m currently learning **Full-stack Developer, Software Developer, System Automations**
+- All of my projects are available at [https://github.com/Brrrt2?tab=overview&from=2022-12-01&to=2022-12-31](https://github.com/Brrrt2?tab=overview&from=2022-12-01&to=2022-12-31)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Brrrt2?tab=overview&from=2022-12-01&to=2022-12-31](https://github.com/Brrrt2?tab=overview&from=2022-12-01&to=2022-12-31)
+- How to reach me **jalbertalcance@gmail.com**
 
-- 📫 How to reach me **jalbertalcance@gmail.com**
+- Know about my experiences [Click the link! https://albert-alcance-portfolio.vercel.app](Click the link! https://albert-alcance-portfolio.vercel.app)
 
-- 📄 Know about my experiences [Click the link! https://albert-alcance-portfolio.vercel.app](Click the link! https://albert-alcance-portfolio.vercel.app)
-
-- ⚡ Fun fact **Ur Filipino coder btw <3**
+- Fun fact **Ur Filipino coder btw <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
