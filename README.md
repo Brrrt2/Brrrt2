@@ -19,7 +19,7 @@
 ### About me
 
 - **Currently learning**: Full‑stack dev, software engineering fundamentals, system automations  
-- **Projects**: `https://github.com/Brrrt2?tab=repositories`
+- **Projects**: `https://github.com/Brrrt2`
 - **Fun fact**: Filipino coder btw
 
 ### Connect with me
