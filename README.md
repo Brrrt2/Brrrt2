@@ -74,12 +74,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brrrt2&theme=transparent&hide_border=true" alt="GitHub Streak" height="165" />
 </div>
 
----
-
-### 🐍 Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Brrrt2/Brrrt2/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/0e75b6/brrrt2" alt="Albert's GitHub Contribution Graph" />
 </div>
 
 ---
